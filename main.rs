@@ -1,23 +1,27 @@
-// В программе заведите 3 переменные для обозначения слова на трех языках. Создайте кортеж для слова, который будет включать в себя эти три значения.
 //
-// Далее по ходу программы измените значения исходных переменных. Создайте новый кортеж.
+// Задание. Счастливый билетик
+// Раньше в автобусах выдавали билеты с шестизначными номерами.
+// Если сумма его первых трех цифр равна сумме его последних трех цифр, то такой билетик считался счастливым.
 //
-// Распечатайте оба кортежа.
-//
-// Подсказка:
-// Тут все просто, главное не забыть сделать первые 3 переменные изменяемыми.
+// Пусть у вас в программе задается шестизначное число. Определить, является ли оно счастливым.
 //
 
+use rand::Rng;
 fn main() {
-    let mut ru: String = "День".to_string();
-    let mut de: String = "Tag".to_string();
-    let mut en: String = "Day".to_string();
-    let words_day: (String, String, String) = (en, ru, de);
-
-    ru = "Луна".to_string();
-    de = "Mond".to_string();
-    en = "Moon".to_string();
-    let words_moon: (String, String, String) = (en, ru, de);
-    println!("{:?}", words_day);
-    println!("{:?}", words_moon);
+    let mut rng = rand::rng();
+    let tiker = [
+        [
+            rng.random_range(0..10),
+            rng.random_range(0..10),
+            rng.random_range(0..10),
+        ],
+        [
+            rng.random_range(0..10),
+            rng.random_range(0..10),
+            rng.random_range(0..10),
+        ],
+    ];
+    let sum_left: i32 = tiker[0].iter().sum();
+    let sum_rigth: i32 = tiker[1].iter().sum();
+    println!("{} : {}", sum_left, sum_rigth);
 }
