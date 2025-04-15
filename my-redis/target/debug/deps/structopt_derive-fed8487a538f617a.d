@@ -1,0 +1,10 @@
+/home/genus/projects/rusteon/my-redis/target/debug/deps/libstructopt_derive-fed8487a538f617a.so: /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/structopt-derive-0.4.18/src/lib.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/structopt-derive-0.4.18/src/attrs.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/structopt-derive-0.4.18/src/doc_comments.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/structopt-derive-0.4.18/src/parse.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/structopt-derive-0.4.18/src/spanned.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/structopt-derive-0.4.18/src/ty.rs
+
+/home/genus/projects/rusteon/my-redis/target/debug/deps/structopt_derive-fed8487a538f617a.d: /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/structopt-derive-0.4.18/src/lib.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/structopt-derive-0.4.18/src/attrs.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/structopt-derive-0.4.18/src/doc_comments.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/structopt-derive-0.4.18/src/parse.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/structopt-derive-0.4.18/src/spanned.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/structopt-derive-0.4.18/src/ty.rs
+
+/home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/structopt-derive-0.4.18/src/lib.rs:
+/home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/structopt-derive-0.4.18/src/attrs.rs:
+/home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/structopt-derive-0.4.18/src/doc_comments.rs:
+/home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/structopt-derive-0.4.18/src/parse.rs:
+/home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/structopt-derive-0.4.18/src/spanned.rs:
+/home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/structopt-derive-0.4.18/src/ty.rs:

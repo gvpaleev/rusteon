@@ -1,0 +1,13 @@
+/home/genus/projects/rusteon/my-redis/target/debug/deps/libansi_term-56a6413c1eb7f053.rmeta: /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/lib.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/ansi.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/style.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/difference.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/display.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/write.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/windows.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/util.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/debug.rs
+
+/home/genus/projects/rusteon/my-redis/target/debug/deps/ansi_term-56a6413c1eb7f053.d: /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/lib.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/ansi.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/style.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/difference.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/display.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/write.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/windows.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/util.rs /home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/debug.rs
+
+/home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/lib.rs:
+/home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/ansi.rs:
+/home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/style.rs:
+/home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/difference.rs:
+/home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/display.rs:
+/home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/write.rs:
+/home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/windows.rs:
+/home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/util.rs:
+/home/genus/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ansi_term-0.12.1/src/debug.rs:
